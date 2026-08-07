@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  negocio: one
+  nome: MyString
+  categoria: MyString
+  tempo_estimado_minutos: 1
+  custo_direto: 9.99
+  custo_fixo_rateado: 9.99
+  valor_hora: 9.99
+  percentual_imprevisto: 9.99
+  percentual_margem: 9.99
+  preco_calculado: 9.99
+  preco_final: 9.99
+  descricao: MyText
+
+two:
+  negocio: two
+  nome: MyString
+  categoria: MyString
+  tempo_estimado_minutos: 1
+  custo_direto: 9.99
+  custo_fixo_rateado: 9.99
+  valor_hora: 9.99
+  percentual_imprevisto: 9.99
+  percentual_margem: 9.99
+  preco_calculado: 9.99
+  preco_final: 9.99
+  descricao: MyText

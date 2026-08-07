@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  negocio: one
+  servico: one
+  tipo: 1
+  descricao: MyString
+  valor: 9.99
+  data: 2026-08-06
+
+two:
+  negocio: two
+  servico: two
+  tipo: 1
+  descricao: MyString
+  valor: 9.99
+  data: 2026-08-06
